@@ -3,11 +3,16 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
+  - Python
+  - Dart
+  - Rust
+  - Haskell
   - HTML & (S)CSS
   - React
   - Vue
+  - Actix
+  - Flutter
   - Node.js
-  - WordPress
 ---
 
 Hi! I'm Bruno, a software engineer based in Dar Es Salaam.
