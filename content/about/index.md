@@ -10,10 +10,10 @@ skills:
   - WordPress
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hi! I'm Bruno, a software engineer based in Dar Es Salaam.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I enjoy dealing with all kind of software technologies, from development to operation i ensure everything is well covered. Smart and secured product is all that i wish to deliver to my community.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Currently persuing my bachelor at [University of Dodoma](https://udom.ac.tz/), But still gat my hands in lots of freelancing.
 
 Here are a few technologies I've been working with recently:
