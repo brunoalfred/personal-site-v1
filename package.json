@@ -33,6 +33,7 @@
     ]
   },
   "dependencies": {
+    "@sentry/react": "^5.20.1",
     "animejs": "^3.2.0",
     "babel-plugin-styled-components": "^1.11.1",
     "gatsby": "^2.24.36",
