@@ -4,6 +4,7 @@ import PropTypes from 'prop-types';
 import { Layout, Hero, About, Jobs, Featured, Projects, Contact } from '@components';
 import styled from 'styled-components';
 import { Main } from '@styles';
+import * as Sentry from '@sentry/react';
 
 const StyledMainContainer = styled(Main)`
   counter-reset: section;
@@ -134,3 +135,5 @@ export const pageQuery = graphql`
     }
   }
 `;
+
+Sentry.init({ dsn: process.env.REACT_APP_DSN });
